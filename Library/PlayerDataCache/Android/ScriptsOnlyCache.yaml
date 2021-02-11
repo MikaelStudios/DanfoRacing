@@ -66,8 +66,6 @@ ScriptsOnlyBuild:
     - v2_Championship
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
-    - UnityEditor.Tilemaps.GridPaletteBrushes
-    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
     Unity.Rider.Editor.dll:
@@ -181,11 +179,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14576}
     - Class: 114
-      Script: {instanceID: 48104}
+      Script: {instanceID: 38650}
     - Class: 114
-      Script: {instanceID: 48106}
+      Script: {instanceID: 84814}
     - Class: 114
-      Script: {instanceID: 48108}
+      Script: {instanceID: 84840}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -2567,7 +2565,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14668}
     - Class: 114
-      Script: {instanceID: 48108}
+      Script: {instanceID: 38650}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
